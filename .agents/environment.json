@@ -1,0 +1,3 @@
+{
+  "install": "bash .agents/env-setup.sh"
+}
